@@ -19,7 +19,7 @@
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/gesture-meme-overlay.git
+git clone https://github.com/hacminhquan/gesture-meme-overlay.git
 cd gesture-meme-overlay
 ```
 
