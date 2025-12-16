@@ -48,22 +48,22 @@ pillow>=9.0.0
 ```
 gesture-meme-overlay/
 │
-├── main.py                 # Main application
-├── requirements.txt        # Python dependencies
-├── README.md              # This file
-├── LICENSE                # MIT License
+├── main.py                
+├── requirements.txt        
+├── README.md             
+├── LICENSE               
 │
-├── memes/                 # Meme images directory
+├── memes/                 
 │   ├── monkey_thinking.jpg
 │   ├── monkey_pointing.jpg
 │   ├── monkey_neutral.jpg
 │   └── monkey_surprised.jpg
 │
-├── docs/                  # Additional documentation
+├── docs/                  
 │   ├── ARCHITECTURE.md
 │   └── CONTRIBUTING.md
 │
-└── tests/                 # Unit tests
+└── tests/                 
     └── test_gestures.py
 ```
 
